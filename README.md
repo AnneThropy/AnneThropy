@@ -45,7 +45,8 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
    padding: 1px;
 }
 |      <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md"><img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/1_sql_basic.png?raw=true"></a>         |      <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/2_sql_sub.png?raw=true">       |    <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/3_sql_join.png?raw=true">   |         <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/4_sql_wind.png?raw=true">         |          <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/5_sql_prod.png?raw=true">         |
-| ------------- | ----------- | ----- | ---------------- | ----------------- |{:.custom-table}
+| ------------- | ----------- | ----- | ---------------- | ----------------- |
+{:.custom-table}
           
 <h2 align="center">Tableau Dashboards</h2>
 
