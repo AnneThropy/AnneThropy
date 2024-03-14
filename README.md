@@ -5,7 +5,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 - 🔭 I am inspired by the magic of transforming raw figures into stories that speak and reveal their hidden mysteries. 
 - 🌱 I believe in data-driven methodologies as the most trusted guide, providing a perfect overview and a foundation for making informed decisions.
 
-<h3 align="center">My skills (spells in use):</h3>
+**My skills (spells in use):**
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="50" width="50"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/numpy.svg" height="50" width="50"/>
