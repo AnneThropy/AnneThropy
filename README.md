@@ -73,6 +73,15 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 
 
+<div class="color-block yellow" style="width: 20%; background-color: #FFF;">Basics</div>
+<div class="color-block green" style="width: 20%; background-color: #00FF00;">Advanced</div>
+<div class="color-block blue" style="width: 20%; background-color: #0000FF;">Proficient</div>
+<div class="color-block pink" style="width: 20%; background-color: #FF00FF; ">Professional</div>
+<div class="color-block magenta" style="width: 20%; background-color: #FF0000;">Magical</div>
+
+
+
+
 
 
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/sql.png?raw=true">
