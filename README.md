@@ -6,7 +6,7 @@ Spells to be used:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" width="40"/>
-<img align="center" src="https://i.pinimg.com/564x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg" height="40" width="60"/>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*RWkQ0Fziw792xa0S" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="40"/>
 <img align="center" src="https://avatars.githubusercontent.com/u/10746780?s=200&v=4" height="40" width="40"/>
