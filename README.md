@@ -17,7 +17,7 @@ Spells in use:
           
 ### Dashboards in Tableau
 
-<a onclick="window.open ('https://public.tableau.com/app/profile/anna.veretennyk/vizzes', ''); return false" href="javascript:void(0);">
+<a target="_blank" href="https://public.tableau.com/app/profile/anna.veretennyk/vizzes">
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Tableau_Dash_AV.png?raw=true"/>
 </a>
 
