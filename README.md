@@ -28,7 +28,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a>
 
 
-!https://github.com/AnneThropy/AnneThropy/blob/main/icons/sql.png?raw=true
+<img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/sql.png?raw=true">
 
 
 | Basic Queries | Sub-Queries | Joins | Window Functions | Product Analytics |
