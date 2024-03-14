@@ -9,7 +9,7 @@ Spells to be used:
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/matplotlib.svg" height="40" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/plotly.svg" height="40" width="60"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/sql.svg" height="40" width="40"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="40" width="50"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="40" width="45"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/tableau.png?raw=true" height="40" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/Google_Sheets_logo.svg" height="40" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="40" width="40"/>
