@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, fellow adventurer!</h1>
-<h1 align="center">Data Analysis Fairy welcomes you! 🧚</h2>
+<h2 align="center">Data Analysis Fairy welcomes you, fellow adventurer! 🧚</h2>
 
 Are you ready to embark on a fantastical journey through the enchanted forests of data? Prepare to be dazzled, delighted, and downright charmed as we unravel the mysteries of numbers, statistics, and insights!
 
