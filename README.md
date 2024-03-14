@@ -16,6 +16,15 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a>
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a>
 
+
+<ul>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20SubQueries.md">Sub-Queries</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Joins.md">Joins</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a></li>
+</ul>
+
 <!---
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/2_sql_sub.png?raw=true">
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/3_sql_join.png?raw=true">
@@ -23,10 +32,15 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/5_sql_prod.png?raw=true">
 --> 
 
-<!---
-| Basic Queries | Sub-Queries | Joins | Window Functions | Product Analytics |
-| ------------- | ----------- | ----- | ---------------- | ----------------- |
---> 
+| Python | SQL |
+| ------------- | ----------- |
+| | <ul>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20SubQueries.md">Sub-Queries</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Joins.md">Joins</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a></li>
+<li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a></li>
+</ul>|
 
 <h3 align="center">SQL Queries</32>
 
