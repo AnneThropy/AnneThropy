@@ -15,6 +15,8 @@ Spells in use:
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="40" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="40" width="40"/>
           
+### Dashboards in Tableau
+<a href="https://public.tableau.com/app/profile/anna.veretennyk/vizzes"><img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Tableau_Dash_AV.png?raw=true"/></a>
 
 
 Join us as we dance through the data, leaving a trail of insights and laughter in our wake. Welcome to the magical land of Data Analysis Fairy—where numbers come to life, and dreams take flight! ✨📊🧚
