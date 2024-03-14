@@ -3,17 +3,17 @@
 From unraveling complex trends to conjuring up captivating visualizations, your fairy friend is here to show you that data analysis isn't just a task — it's a magical adventure!
 
 Spells to be used:
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" width="40"/>
-<img align="center" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*RWkQ0Fziw792xa0S" height="40" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" height="40" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height="40" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="40"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="40" width="40"/>
-<img align="center" src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI" height="40" width="40"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" height="40" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="40" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/numpy.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/matplotlib.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/plotly.svg" height="40" width="60"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/sql.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="40" width="50"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/tableau.png?raw=true" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/Google_Sheets_logo.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="40" width="40"/>
           
           
 
