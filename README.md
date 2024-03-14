@@ -1,4 +1,5 @@
-# Welcome, fellow adventurers, to the whimsical realm of Data Analysis Fairy! 🧚
+# Hi there, fellow adventurer!
+## Data Analysis Fairy welcomes you! 🧚
 
 Are you ready to embark on a fantastical journey through the enchanted forests of data? Prepare to be dazzled, delighted, and downright charmed as we unravel the mysteries of numbers, statistics, and insights!
 
