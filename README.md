@@ -19,8 +19,7 @@ Spells to be used:
 
 Join us as we dance through the data, leaving a trail of insights and laughter in our wake. Welcome to the magical land of Data Analysis Fairy—where numbers come to life, and dreams take flight! ✨📊🧚
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31AC38&vCenter=true&random=false&width=435&lines=Data+analysis+isn't+just+a+task+%E2%80%94+it's+a+magical+adventure!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31AC38&center=true&vCenter=true&random=false&width=700&lines=Data+analysis+isn't+just+a+task+%E2%80%94+it's+a+magical+adventure!)](https://git.io/typing-svg)
 
 <!--
 **AnneThropy/AnneThropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
