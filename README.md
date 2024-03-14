@@ -28,6 +28,53 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Color Menu</title>
+<style>
+  .color-block {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px; /* Center the text vertically */
+    font-size: 24px;
+    color: white;
+    background-color: #FFF; /* White background for text */
+    cursor: pointer;
+  }
+
+  .yellow { background-color: #FFF; }
+  .green { background-color: #00FF00; }
+  .blue { background-color: #0000FF; }
+  .pink { background-color: #FF00FF; }
+  .magenta { background-color: #FF0000; }
+
+  .color-block:hover {
+    background-color: #000;
+    color: #FFF;
+  }
+</style>
+</head>
+<body>
+
+<div class="color-block yellow">Basics</div>
+<div class="color-block green">Advanced</div>
+<div class="color-block blue">Proficient</div>
+<div class="color-block pink">Professional</div>
+<div class="color-block magenta">Magical</div>
+
+</body>
+</html>
+
+
+
+
+
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/sql.png?raw=true">
 
 
