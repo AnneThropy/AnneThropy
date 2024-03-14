@@ -27,15 +27,15 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a>
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a>
 
-<style>
-  table {
-    width: 100%;
-  }
-  td {
-    height: 70px;
-    width: 20%;
-  }
-</style>
+<table style="width: 100%;">
+  <tr>
+    <td style="height: 70px; width: 20%;">Basics</td>
+    <td style="height: 70px; width: 20%;">Advanced</td>
+    <td style="height: 70px; width: 20%;">Profficient</td>
+    <td style="height: 70px; width: 20%;">Professional</td>
+    <td style="height: 70px; width: 20%;">Magical</td>
+  </tr>
+</table>
 
 | Basic Queries | Sub-Queries | Joins | Window Functions | Product Analytics |
 | ------------- | ----------- | ----- | ---------------- | ----------------- |
