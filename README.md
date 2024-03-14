@@ -19,29 +19,15 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="40" width="40"/>
 
 
-<h2 align="center">My Projects</h2>
+<h2 align="center">SQL Queries</h2>
 
-| Python | SQL | 
-| ------------- | ----------- |
-|- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20SubQueries.md">Sub-Queries</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Joins.md">Joins</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a> | - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20SubQueries.md">Sub-Queries</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Joins.md">Joins</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a>
-- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a>|
-
-
-
-<!---
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a>
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20SubQueries.md">Sub-Queries</a>
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Joins.md">Joins</a>
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a>
 - <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a>
 
+<!---
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/2_sql_sub.png?raw=true">
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/3_sql_join.png?raw=true">
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/4_sql_wind.png?raw=true">
@@ -51,10 +37,13 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <!---
 | Basic Queries | Sub-Queries | Joins | Window Functions | Product Analytics |
 | ------------- | ----------- | ----- | ---------------- | ----------------- |
+--> 
+
+<h2 align="center">SQL Queries</h2>
 
 |      <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md"><img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/1_sql_basic.png?raw=true"></a>         |      <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/2_sql_sub.png?raw=true">       |    <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/3_sql_join.png?raw=true">   |         <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/4_sql_wind.png?raw=true">         |          <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/5_sql_prod.png?raw=true">         |
 | ------------- | ----------- | ----- | ---------------- | ----------------- |
---> 
+
           
 <h2 align="center">Tableau Dashboards</h2>
 
