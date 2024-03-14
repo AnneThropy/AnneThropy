@@ -21,9 +21,15 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 <h2 align="center">SQL Queries</h2>
 
+- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a>
+- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20SubQueries.md">Sub-Queries</a>
+- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Joins.md">Joins</a>
+- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a>
+- <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a>
+
 | Basic Queries | Sub-Queries | Joins | Window Functions | Product Analytics |
 | ------------- | ----------- | ----- | ---------------- | ----------------- |
-|      <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Link</a>         |             |       |                  |                   |
+|      <a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a>         |             |       |                  |                   |
 
           
 <h2 align="center">Tableau Dashboards</h2>
