@@ -1,4 +1,4 @@
-<h2 align="center">Data Analysis Fairy welcomes you, fellow adventurer! 🧚</h2>
+<h2 align="center">Data Analyst Fairy welcomes you, fellow adventurer! 🧚</h2>
 
 From unraveling complex trends to conjuring up captivating visualizations, your fairy friend is here to show you that data analysis isn't just a task — it's a magical adventure!
 
@@ -15,10 +15,11 @@ Spells to be used:
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="40" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="40" width="40"/>
           
-          
 
 
 Join us as we dance through the data, leaving a trail of insights and laughter in our wake. Welcome to the magical land of Data Analysis Fairy—where numbers come to life, and dreams take flight! ✨📊🧚
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31AC38&vCenter=true&random=false&width=435&lines=Data+analysis+isn't+just+a+task+%E2%80%94+it's+a+magical+adventure!)](https://git.io/typing-svg)
 
 
 <!--
