@@ -4,9 +4,9 @@ From unraveling complex trends to conjuring up captivating visualizations, your 
 
 Spells to be used:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" width="40"/>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*RWkQ0Fziw792xa0S" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" width="40"/>
-<img align="center" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*RWkQ0Fziw792xa0S" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="40"/>
 <img align="center" src="https://avatars.githubusercontent.com/u/10746780?s=200&v=4" height="40" width="40"/>
