@@ -4,7 +4,11 @@ From unraveling complex trends to conjuring up captivating visualizations, your 
 
 Spells to be used:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" width="40"/>
-<span style="background-color:#386f9f; height="40" width="40"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" width="40"/></span>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" width="40"/>
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="#386f9f"></rect>
+<image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" width="40" y="0" x="0"/>
+</svg>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" width="40"/>
