@@ -4,6 +4,9 @@ Gather 'round, dear friends, as we unlock the secrets hidden within the depths o
 
 Magic spells to be used:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="40"/>
+<img align="center" src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI" height="40" width="40"/>
+
           
 
 Join us as we dance through the data, leaving a trail of insights and laughter in our wake. Welcome to the magical land of Data Analysis Fairy—where numbers come to life, and dreams take flight! ✨📊🧚
