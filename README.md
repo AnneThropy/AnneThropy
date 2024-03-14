@@ -30,12 +30,12 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 
 
-
+<! --
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/2_sql_sub.png?raw=true">
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/3_sql_join.png?raw=true">
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/4_sql_wind.png?raw=true">
 <img src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/5_sql_prod.png?raw=true">
-
+ --> 
 
 
 | Basic Queries | Sub-Queries | Joins | Window Functions | Product Analytics |
