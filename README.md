@@ -20,7 +20,9 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/sql.svg" height="50" width="50"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="50" width="55"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/tableau.png?raw=true" height="50" width="50"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/Google_Sheets_logo.svg" height="50" width="50"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="50" width="50"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="50" width="50"/>
