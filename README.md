@@ -11,7 +11,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 **My skills (spells in use):**
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="50" width="60"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="50" width="55"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/numpy.svg" height="50" width="50"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
