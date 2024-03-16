@@ -78,11 +78,11 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 <h3 align="center">Certificates</h3>
 
-<img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Data_Analyst.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Python_Data_Structures.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Python_Core.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Python_for_Data_Science.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/SQL_01.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/SQL_02.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/SQL_Intermediate.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Machine_Learning.png?raw=true" height="80" width="100"/>
+<img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Data_Analyst.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/SQL_01.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/SQL_02.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Python_Data_Structures.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Python_Core.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Python_for_Data_Science.png?raw=true" height="80" width="100"/>  <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/SQL_Intermediate.png?raw=true" height="80" width="100"/> <img align="center" src="https://github.com/AnneThropy/Certificates/blob/main/Machine_Learning.png?raw=true" height="80" width="100"/>
 
 
 
-https://github.com/AnneThropy/Certificates/blob/main/Python_Core.png?raw=true
+
 
 ---
 
