@@ -72,9 +72,15 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Tableau_Dash_AV.png?raw=true"/>
 </a>
 
+---
 
- 
-Join us as we dance through the data, leaving a trail of insights and laughter in our wake. Welcome to the magical land of Data Analysis Fairy—where numbers come to life, and dreams take flight! ✨📊🧚
+<h3 align="center">Certificates</h3>
+
+
+---
+
+<h3 align="center">Contacts</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=31AC38&center=true&vCenter=true&random=false&width=710&lines=Data+analysis+isn't+just+a+task+%E2%80%94+it's+a+magical+adventure!)](https://git.io/typing-svg)
 
