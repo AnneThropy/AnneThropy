@@ -1,13 +1,10 @@
 <h2 align="center">Data Analyst Fairy welcomes you, fellow adventurer! 🧚</h2>
 
----
-
 Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, numbers 🔢, graphs 📊, and queries 🔍. 
 
 - 🔭 I am inspired by the magic of transforming raw figures into stories that speak and reveal their hidden mysteries. 
 - 🌱 I believe in data-driven methodologies as the most trusted guide, providing a perfect overview and a foundation for making informed decisions.
 
----
 
 **My skills (spells in use):**
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="50" width="50"/>
@@ -78,7 +75,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Tableau_Dash_AV.png?raw=true"/>
 </a>
 
----
+
 
 <h3 align="center">Certificates</h3>
 
