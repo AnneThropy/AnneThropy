@@ -9,7 +9,18 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 ---
 
-#### My skills (spells in use): <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="50" width="50"/><img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="50" width="50"/><img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/numpy.svg" height="50" width="50"/><img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/matplotlib.svg" height="50" width="50"/><img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/plotly.svg" height="50" width="65"/><img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/sql.svg" height="50" width="50"/><img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="50" width="55"/><img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/tableau.png?raw=true" height="50" width="50"/><img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/Google_Sheets_logo.svg" height="50" width="50"/><img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="50" width="50"/><img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="50" width="50"/>
+**My skills (spells in use):**
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="50" width="50"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/numpy.svg" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/matplotlib.svg" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/plotly.svg" height="50" width="65"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/sql.svg" height="50" width="50"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="50" width="55"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/tableau.png?raw=true" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/Google_Sheets_logo.svg" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="50" width="50"/>
 
 ---
 
@@ -41,7 +52,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 --> 
 
 
-| <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="30" width="300"/>Python | <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="30" width="300"/>SQL |
+| <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="30" width="100"/>Python<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="30" width="100"/> | <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="30" width="100"/>SQL<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="30" width="100"/> |
 | ------------- | ----------- |
 | | <ul><li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Basics.md">Basic Queries</a></li><li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20SubQueries.md">Sub-Queries</a></li><li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Joins.md">Joins</a></li><li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Window%20Functions.md">Window Functions</a></li><li><a href="https://github.com/AnneThropy/SQL_Portfolio_AnnaV/blob/2a2462c7c2f42a3ca1d40181f3749c7c07bcda20/SQL%20Portfolio%20-%20Product%20Analytics%20Queries.md">Product Analytics</a></li></ul>|
 
