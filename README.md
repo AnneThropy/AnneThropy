@@ -88,6 +88,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 
 
+<!---
 ---
 
 <h3 align="center">Contacts</h3>
@@ -95,3 +96,4 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=31AC38&center=true&vCenter=true&random=false&width=710&lines=Data+analysis+isn't+just+a+task+%E2%80%94+it's+a+magical+adventure!)](https://git.io/typing-svg)
 
+--> 
