@@ -23,6 +23,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="40" width="40"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/ab25a726f6c3b5f2b7255eb447cfd8fe3210af43/icons/pycharm.svg" height="40" width="40"/>
 
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="5" width="5"/>
@@ -82,7 +83,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <h4 align="center">Looker</h4>
 
 <a href="https://lookerstudio.google.com/reporting/059b5fb6-e940-4a7b-aa73-3831194f0933/page/F8mtD">
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/kindle_dash.png?raw=true" height="200" width="150"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/kindle_dash.png?raw=true" height="150" width="200"/>
 </a>
 
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="5" width="5"/>
