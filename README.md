@@ -6,25 +6,24 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 - 🌱 I believe in data-driven methodologies as the most trusted guide, providing a perfect overview and a foundation for making informed decisions.
 
 **My skills in spells:**
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="50" width="55"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/numpy.svg" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/matplotlib.svg" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/plotly.svg" height="50" width="65"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/sql.svg" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="50" width="55"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/tableau.png?raw=true" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/Google_Sheets_logo.svg" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/ab25a726f6c3b5f2b7255eb447cfd8fe3210af43/icons/looker-svgrepo-com.svg" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="50" width="50"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="50" width="5"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/ab25a726f6c3b5f2b7255eb447cfd8fe3210af43/icons/pycharm.svg" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/python.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/pandas.png?raw=true" height="40" width="45"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/numpy.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/matplotlib.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/plotly.svg" height="40" width="45"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/sql.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Redash.png?raw=true" height="40" width="45"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/tableau.png?raw=true" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/Google_Sheets_logo.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/ab25a726f6c3b5f2b7255eb447cfd8fe3210af43/icons/looker-svgrepo-com.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="40" width="40"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/ab25a726f6c3b5f2b7255eb447cfd8fe3210af43/icons/pycharm.svg" height="40" width="40"/>
 
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="5" width="5"/>
 
@@ -83,7 +82,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <h4 align="center">Looker</h4>
 
 <a href="https://lookerstudio.google.com/reporting/059b5fb6-e940-4a7b-aa73-3831194f0933/page/F8mtD">
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/kindle_dash.png?raw=true" height="100" width="100"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/kindle_dash.png?raw=true" height="200" width="150"/>
 </a>
 
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="5" width="5"/>
