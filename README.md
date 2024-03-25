@@ -84,8 +84,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 
 <a href="https://lookerstudio.google.com/reporting/227694aa-7714-4f03-8192-7b5bb52aa0f5">
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/looker_dash_satis.png?raw=true" height="150" width="200"/>
-</a><img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="5" width="5"/>
-<a href="https://lookerstudio.google.com/reporting/059b5fb6-e940-4a7b-aa73-3831194f0933/page/F8mtD">
+</a> <a href="https://lookerstudio.google.com/reporting/059b5fb6-e940-4a7b-aa73-3831194f0933/page/F8mtD">
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/kindle_dash.png?raw=true" height="150" width="200"/>
 </a>
 
