@@ -23,7 +23,7 @@ Hi! 👋 My name is Anna. I’m a data analyst, your tiny fairy of sheets 📄, 
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/gitlab.svg" height="40" width="40"/>
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="40" width="5"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/f17a226672234e24f71aa548ce731b64bb1266aa/icons/jupyter.svg" height="40" width="40"/>
-<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Google_Colab.svg.png" height="40" width="50"/>
+<img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Google_Colab.svg.png" height="40" width="60"/>
 <img align="center" src="https://raw.githubusercontent.com/AnneThropy/AnneThropy/ab25a726f6c3b5f2b7255eb447cfd8fe3210af43/icons/pycharm.svg" height="40" width="40"/>
 
 <img align="center" src="https://github.com/AnneThropy/AnneThropy/blob/main/icons/Empty.png?raw=true" height="5" width="5"/>
